@@ -1,0 +1,37 @@
+{
+ "date": "2026-11-11",
+ "summary": [
+  "누적된 글 중 아직 안 다룬 관심 주제 글 3건을 골랐다.",
+  "주제 분포: AI 에이전트 2건, 클로드 1건.",
+  "가장 연관도 높은 글은 「Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI」이다."
+ ],
+ "items": [
+  {
+   "title": "Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI",
+   "digest": "AI 에이전트가 맥/윈도우/리눅스에서 앱을 열고, 메뉴를 누르고, 입력란을 채울 수 있음. AI 에이전트 관점에서 참고할 만한 소식이다.",
+   "link": "https://news.hada.io/topic?id=36967",
+   "topics": [
+    "AI 에이전트"
+   ],
+   "published": "2026-11-11T09:30:02+09:00"
+  },
+  {
+   "title": "Show GN: 에이전트가 글을 제대로 쓰도록 만들기, Human-readable writing",
+   "digest": "human-readable-writing은 에이전트에 설치해 사용하는 글쓰기 스킬입니다. AI 에이전트 관점에서 참고할 만한 소식이다.",
+   "link": "https://news.hada.io/topic?id=36988",
+   "topics": [
+    "AI 에이전트"
+   ],
+   "published": "2026-11-11T20:40:20+09:00"
+  },
+  {
+   "title": "7개월이 지난 Glasswing, 기대에 못 미치는 발견으로 유지보수자에게 과도한 부담을 주다",
+   "digest": "VulnCheck가 추적한 Anthropic에 귀속되는 CVE는 442건 으로, 올해 전체의 약 0.5%임. 클로드 관점에서 참고할 만한 소식이다.",
+   "link": "https://news.hada.io/topic?id=36971",
+   "topics": [
+    "클로드"
+   ],
+   "published": "2026-11-11T10:37:18+09:00"
+  }
+ ]
+}

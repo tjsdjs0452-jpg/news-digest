@@ -1,0 +1,208 @@
+{
+ "https://news.hada.io/topic?id=36988": {
+  "id": "https://news.hada.io/topic?id=36988",
+  "published": "2026-11-11T20:40:20+09:00",
+  "title": "Show GN: 에이전트가 글을 제대로 쓰도록 만들기, Human-readable writing",
+  "summary": "안녕하세요. . human-readable-writing은 에이전트에 설치해 사용하는 글쓰기 스킬입니다. . 지침은 압축된 명사구를 주체와 동작이 드러나는 문장으로 풀고, 조건·예외·불확실성을 해당 주장 가까이에 배치하도록 합니다. . 원문의 사실·수치·전문 용어는 유지하고, 불분명한 관계는 추측해서 채우지 않도록 지시합니다. . 에이전트가 작성한 문서의 가독성을 고민하다가 관련 연구 (https://arxiv.org/abs/2610.29162v1)를 참고해 작성 지침을 만들고 제 . 작업에 적용해 봤습니다. 개인적으로 유용하다고 느껴 재사용할 수 있는 스킬로 정리했 . …",
+  "link": "https://news.hada.io/topic?id=36988",
+  "first_seen": "2026-11-11",
+  "digested_on": "2026-11-11",
+  "topics": [
+   "AI 에이전트"
+  ]
+ },
+ "https://news.hada.io/topic?id=36987": {
+  "id": "https://news.hada.io/topic?id=36987",
+  "published": "2026-11-11T20:36:20+09:00",
+  "title": "Show GN: Fame - 교과서 사진으로 빈칸 시험지를 만드는 고등학생용 내신 암기 앱",
+  "summary": "고등학생이고 혼자 만들고 있습니다. 제가 쓰려고 만든 내신 암기 앱을 구글 플레이에 올렸습니다. . 교과서나 단어장 사진을 기기 안(ML Kit)에서 글자로 읽어 지문이나 단어장으로 저장하고, 빈칸, 핵심어 빈칸, 문장 순서, 단어 단계 학습, 용어 카드, OX, 연표, 사진 가리기 등 18가지 방식으로 외웁니다. 선택 기능인 AI 읽기를 켜지 않으면 사진은 서버로 가지 않습니다. . 수행평가 안내문 사진에서 마감일과 준비물을 뽑아 알림을 걸어 주고, 공부한 것은 1, 3, 7, 14일 간격으로 복습 알림을 보냅니다. 공부 기능은 계정 없이 기기에 저장되고(인터넷 연결은 필요), 공유는 압축한 글 한 덩어리를 메신저로 주고받는 방식이라 서버를 거치지 않습니다. . …",
+  "link": "https://news.hada.io/topic?id=36987",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36986": {
+  "id": "https://news.hada.io/topic?id=36986",
+  "published": "2026-11-11T20:27:58+09:00",
+  "title": "Ask GN: 비개발자인데, AI 회의록 요약에서 제가 제안한 게 합의한 걸로 정리됩니다",
+  "summary": "영업 일을 하는 비개발자입니다. 고객 미팅을 녹음해서 AI로 요약을 받아 쓰고 있는데요. . 요약만 보면 제가 \"이렇게 하시면 어떨까요\" 하고 꺼낸 말이 합의한 것처럼 적혀 있을 때가 있었습니다. 그대로 후속 메일에 옮기면 곤란해지니까 결국 녹음 전문을 다시 열게 됩니다. . 지금은 요약을 받을 때 \"상대가 실제로 한 말과 내 제안을 나눠서, 내 제안은 미합의로 따로 떼 달라\"고 시키고 있습니다. 조금 나아졌는데, 말이 길게 섞인 회의는 여전히 헷갈리더라고요. . 회의록을 AI로 정리하시는 분들은 누가 한 말인지, 정해진 건지 그냥 나 . …",
+  "link": "https://news.hada.io/topic?id=36986",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36985": {
+  "id": "https://news.hada.io/topic?id=36985",
+  "published": "2026-11-11T19:33:17+09:00",
+  "title": "macOS Secure Enclave로 SSH 키 보호하기",
+  "summary": "macOS Sequoia와 Tahoe에서는 Secure Enclave 기반 SSH 키 를 사용할 수 있으며, 개인 키는 내부에서 생성되어 밖으로 나오지 않고 인증 요청에 대한 서명만 수행함 . 디스크에는 실제 개인 키 대신 키 참조 파일 을 저장하며, 서버에는 기존 방식대로 공개 키를 authorized_keys 에 등록함 . 기본 제공 도구인 sc_auth 와 ssh-keygen 으로 설정할 수 있지만, SSH_SK_PROVIDER 지정 과 SSH 설정에 키 파일을 명시하는 작업이 필요함 . Touch ID를 매번 요구 하면 악성코드가 키를 몰래 사용하는 것을 막을 수 있지만, 키를 내보내거나 백업할 수 없어 . …",
+  "link": "https://news.hada.io/topic?id=36985",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36984": {
+  "id": "https://news.hada.io/topic?id=36984",
+  "published": "2026-11-11T18:36:42+09:00",
+  "title": ".NET 11 발표, C# 15 도입과 런타임 및 개발 도구 개선",
+  "summary": ".NET 11 이 정식 출시됨. C# 15, ASP.NET Core,.NET MAUI와 Windows 개발 기능을 개선하며, 2년간 지원하는 STS 릴리스 로 제공됨 . C# 15 는 유니온 타입과 닫힌 상속 계층을 도입해 애플리케이션의 가능한 상태를 표현하고, 컴파일러가 패턴 처리의 완전성을 검사할 수 있게 함 . Native AOT CLI 호스트와 MSBuild 서버 가 기본 활성화되어 반복 명령의 시작 비용을 줄임. 런타임과 라이브러리에도 수백 건의 최적화 가 적용됨 . ASP.NET Core 는 비동기 검증, OpenAPI 3.2, SignalR 인증 갱신과 Blazor 개선을 제공함. .NET MAUI 는 모든 플랫폼의 . …",
+  "link": "https://news.hada.io/topic?id=36984",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36982": {
+  "id": "https://news.hada.io/topic?id=36982",
+  "published": "2026-11-11T17:32:42+09:00",
+  "title": "Apple, 여러 Mac을 묶어 로컬 AI 모델을 실행하는 ‘Harbor’ 준비 중",
+  "summary": "Apple은 Mac 한 대 또는 여러 대를 로컬 AI 추론 서버로 쓰는 앱 ‘Harbor’ 를 개발 중임 . Apple silicon 에서 오픈 웨이트 모델을 실행해 Mac을 개인용 AI 추론 서버로 만들며, 앱 소개에 따르면 데이터가 하드웨어 밖이나 클라우드로 전송되지 않음 . Thunderbolt 5 로 여러 Mac을 연결하고 통합 메모리를 합쳐, 단일 Mac의 용량을 넘는 모델을 실행하거나 더 많은 동시 요청을 처리할 수 있음 . 기기 자동 감지와 클러스터 구성, 앱 내 모델 검색/다운로드/로딩을 지원해 수동 설정이나 명령줄 작업 없이 사용할 수 있도록 설계됨 . 현재 Appl . …",
+  "link": "https://news.hada.io/topic?id=36982",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36981": {
+  "id": "https://news.hada.io/topic?id=36981",
+  "published": "2026-11-11T17:02:20+09:00",
+  "title": "투박한 차단 망치로 단순한 봇을 가차 없이 막기",
+  "summary": "B6 는 robots.txt 에서 접근을 금지한 숨은 허니팟에 방문하면 해당 IP를 .htaccess 에 등록해 사이트 전체 접근을 차단하는 도구임 . OpenBenches.org 적용 사례 에서 봇 트래픽이 80% 넘게 줄었으며, 하루 데이터 전송량은 최고 216GB에서 약 25GB로 감소함 . 모든 페이지에 숨겨진 링크 를 넣어 크롤러를 유도하며, 캐시를 많이 사용하는 사이트에서도 작동하도록 구현함 . User-Agent나 국가 등 다른 신호를 확인하지 않고 즉시 차단 하며, 사전 경고나 자동 이의 제기 절차가 없음 . 유용한 봇과 무관한 이용자까지 차단할 가능성 이 있고, 허니팟을 . …",
+  "link": "https://news.hada.io/topic?id=36981",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36980": {
+  "id": "https://news.hada.io/topic?id=36980",
+  "published": "2026-11-11T16:33:03+09:00",
+  "title": "Microsoft, macOS용 Process Explorer 공개",
+  "summary": "Sysinternals Process Explorer for Mac 은 Microsoft의 프로세스 검사 도구를 macOS용으로 구현한 네이티브 앱임 . 실시간 트리 에서 어떤 프로세스가 무엇을 실행했는지 볼 수 있고, 각 프로세스가 열어 둔 파일, 불러온 라이브러리, 실행 중인 스레드를 확인할 수 있음 . Swift, SwiftUI, AppKit 으로 구현했으며, libproc , sysctl 등 공개 macOS API로 데이터를 수집함 . 프로세스별 TCP/IP 연결과 코드 서명 을 확인하고, VirusTotal 조회, 프로세스 종료/일시 정지/재시작 등 검사와 제어 작업을 수행할 수 있음 . 선택적으로 설치하는 권한 상 . …",
+  "link": "https://news.hada.io/topic?id=36980",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36979": {
+  "id": "https://news.hada.io/topic?id=36979",
+  "published": "2026-11-11T16:10:40+09:00",
+  "title": "Show GN: NOX - LLM 채팅으로 영상을 찾고 제어하는 NVR/VMS 플랫폼",
+  "summary": "NOX 소개 NOX는 제가 2024년 8월부터 혼자 만들고 있는 NVR(네트워크 비디오 레코더)/VMS(영상관리시스템) 플랫폼입니다. 카메라 연동(ONVIF/RTSP), 녹화·재생·검색, 실시간 AI 분석(객체 검출, 번호판 인식, 영상 비식별), 권한 관리와 감사 로그, 국가정보원(NIS) 보안요구사항 인증 대응을 갖췄고, 라이선스 서버와 Paddle 기반 구독 결제도 연동했습니다. . 특히 LLM 채팅을 지원합니다. \"어제 오전 9시 30분 현관 영상 보여줘\"처럼 말하면 영상을 찾아 재생하고, 라이브·재생·검색 화면을 열거나 재생 위치를 옮길 수 있습니다. 카메라 목록·이벤트·저장소 상태 같은 시스템 정보도 대화로 물어볼 수 있습니다. 이벤트 확인 처리나 백업처럼 값을 바꾸는 작업은 채팅이 초안을 만들고, 사용자가 확인 카드에서 승인해야 실행됩니다. LLM은 외부 API(Claude)나 장비 내·사내 추론 서버 중에서 고르며, 이 기능은 ENTERPRISE 라이선스에 포함되어 무료 버전에서는 쓸 수 없습니다. . …",
+  "link": "https://news.hada.io/topic?id=36979",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36978": {
+  "id": "https://news.hada.io/topic?id=36978",
+  "published": "2026-11-11T13:31:14+09:00",
+  "title": "Terence Tao의 Six Math Essentials - 수학의 여섯 가지 핵심 개념",
+  "summary": "필즈상 수상자 Terence Tao 가 고대부터 오늘날의 연구 최전선까지 수학을 이끌어 온 여섯 개념으로 복잡한 세계를 이해하는 길을 소개함 . 수 는 정량적 사고의 출발점이며, 대수학 은 추상화의 출발점임 . 기하학 은 눈에 보이는 범위를 넘어 계산하는 방법임 . 확률 은 엄밀한 사고로 불확실성을 헤쳐 나가는 도구임 . 해석학 은 매우 크거나 작은 것을 다루는 수단이며, 동역학 은 변화의 수학임 . 책이 다루는 여섯 개념 Six Math Essentials 는 수학의 여섯 핵심 개념을 통해 복잡한 세계를 이해하도록 돕는 책임 수 : 정량적 사고로 들어가는 출발점임 . . …",
+  "link": "https://news.hada.io/topic?id=36978",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36977": {
+  "id": "https://news.hada.io/topic?id=36977",
+  "published": "2026-11-11T13:23:34+09:00",
+  "title": "Show GN: Officeflare - Cloudflare 인프라 위에 올라가는 오피스 스위트",
+  "summary": "Cloudflare 인프라 위에서 동작하는 오피스 스위트를 만들어 사용하고 있습니다. . 클라우드플레어에 이메일 라우팅, 이메일 발송 같은 기능들이 도입되며, 오래 전부터 생각만 해오던 제품을 만들 수 있게 되었네요. . 현재 시점에서 제공하는 기능은 총 3가지입니다. . 1. 메일 . 클플의 Email routing을 사용해 메일을 수신하고, Email sending을 사용해 메일을 발신합니다. . 메일 발송은 페이드 플랜을 필요로 하므로 유료 계정 위에 올려 사용하거나, resend 와 같은 별도 프로바이더를 연결하셔야 합니다. . 수신된 메일은 메일함 별로 sql . …",
+  "link": "https://news.hada.io/topic?id=36977",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36975": {
+  "id": "https://news.hada.io/topic?id=36975",
+  "published": "2026-11-11T13:02:54+09:00",
+  "title": "Gleam을 써보자",
+  "summary": "Gleam 은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상호운용성을 갖춤 . 파이프 연산자 |> , 콜백 중첩을 줄이는 use , 꼬리 호출 최적화를 중심으로 불변 데이터와 함수 조합을 다루며, Rust의 함수형 코드에 익숙하다면 친숙하게 접근할 수 있음 . 대수적 데이터 타입 으로 원치 않는 상태를 표현하지 못하게 설계할 수 있고, BEAM 백엔드와 JavaScript 프런트엔드에서 타입 정의를 공유할 수 있음 . BEAM과 OTP 는 메시지 전달, 경량 프로세스, 장애 감시와 재시작을 . …",
+  "link": "https://news.hada.io/topic?id=36975",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36973": {
+  "id": "https://news.hada.io/topic?id=36973",
+  "published": "2026-11-11T12:07:37+09:00",
+  "title": "Show GN: TimeCarver - 집중한 시간만큼 돌을 깎는 타이머 앱",
+  "summary": "집중해야 하는데 자꾸 딴짓을 하게 되는 저 같은 분들을 위해 만든, iOS·Android 포커스 타이머 앱 TimeCarver입니다. . 집중하는 동안 원석이 조금씩 깎여 나가고, 딴짓을 하면 균열이 생깁니다. . 시간이 다 되면 직접 깎은 조각상 한 점이 남습니다. . 가입이나 로그인은 없고, 무료로 주요 기능들을 이용하실 수 있습니다. . 주요 기능 . 원석과 시간(1분~3시간)을 고르고 시작하면, 시간이 흐르는 만큼 원석이 윤곽부터 디테일까지 깎여 나갑니다. 어떤 작품이 될지는 미리 알려주지 않고, 시간이 다 되면 좌대 위에서 공개됩니다. . 오래 집중할 . …",
+  "link": "https://news.hada.io/topic?id=36973",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36972": {
+  "id": "https://news.hada.io/topic?id=36972",
+  "published": "2026-11-11T10:40:18+09:00",
+  "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
+  "summary": "Zen 6 는 단일 스레드의 듀얼 디코더 활용, 더 빠른 분기 처리, 확장된 비순차 실행 구조로 Zen 5 대비 실행 엔진에 일감을 공급하고 메모리 지연을 숨기는 능력을 개선함 . Zen 6와 Zen 6c 는 이제 코어 밀도뿐 아니라 내부 실행 구조도 다르며, 각각 높은 클럭과 더 큰 비순차 실행 구조를 통한 지연 흡수에 맞춘 설계로 보임 . VNNI 처리량 은 거의 두 배로 늘고 256비트 벡터 로드는 사이클당 4개로 증가한 반면, 정수 곱셈 유닛은 면적 대비 효용을 이유로 3개에서 2개로 줄어듦 . 추정 SPEC CPU 2026 단일 스레드 성능 에서 Zen 6 기반 EPYC . …",
+  "link": "https://news.hada.io/topic?id=36972",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36971": {
+  "id": "https://news.hada.io/topic?id=36971",
+  "published": "2026-11-11T10:37:18+09:00",
+  "title": "7개월이 지난 Glasswing, 기대에 못 미치는 발견으로 유지보수자에게 과도한 부담을 주다",
+  "summary": "VulnCheck가 추적한 Anthropic에 귀속되는 CVE는 442건 으로, 올해 전체의 약 0.5%임. Glasswing이 출범 당시 내세운 대규모 고위험 취약점 발견과 공개된 성과 사이에 간극이 있음 . Anthropic의 발견 37,966건 중 공개된 것은 7,349건 , 수정 완료로 표시된 것은 217건임. 9월 이후 발견은 약 12,000건 늘었지만 수정 완료는 15건 증가하는 데 그침 . 중복과 철회가 수정 완료보다 많은 가운데 Anthropic의 정탐률은 94.2% 로 상승함. 중복 및 철회 결과가 정탐률 산정에 반영되는지는 의문으로 남음 . OSS Scanner 는 사람이 검토하지 않은 모델 . …",
+  "link": "https://news.hada.io/topic?id=36971",
+  "first_seen": "2026-11-11",
+  "digested_on": "2026-11-11",
+  "topics": [
+   "클로드"
+  ]
+ },
+ "https://news.hada.io/topic?id=36970": {
+  "id": "https://news.hada.io/topic?id=36970",
+  "published": "2026-11-11T09:50:02+09:00",
+  "title": "기업용 AI 제품은 어떻게 가격을 매기는가",
+  "summary": "AI 제품은 사용량에 따라 제공 비용이 달라지고, 도입 효과도 계약 전에 숫자로 잡기 어려움. 성공적인 기업용 가격 모델은 고정 요금, 사용량 요금, 구축·인력 비용 중 둘 이상 을 조합하는 경우가 많음 . 고정+변동 혼합형 은 고객의 예산 예측 가능성과 공급사의 사용량 증가에 따른 수익을 함께 확보하며, 제품이 성숙하고 사용 데이터가 쌓일수록 고정 요금 비중을 높이는 흐름이 있음 . 기업 구매자는 사용량 기반 과금 의 청구액 불확실성과 사용량에 비례하지 않는 가치를 꺼리며, 가격을 2~3개 주요 요소로 단순화하고 이해하기 쉬운 작업 단위로 과금하는 방식이 대안임 . …",
+  "link": "https://news.hada.io/topic?id=36970",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36969": {
+  "id": "https://news.hada.io/topic?id=36969",
+  "published": "2026-11-11T09:40:02+09:00",
+  "title": "책이 제 역할을 하지 못하는 이유 (2019)",
+  "summary": "읽을 땐 이해한 것 같은데, 막상 누가 “그게 왜 그래?”라고 물으면 설명이 막힐 때가 있음. 저자는 이 경험에서 출발해 복잡한 지식을 가르치는 데 책이라는 형식이 얼마나 잘 맞는지 살펴봄 . 책이나 강의는 설명을 차례로 따라가게 해줌. 하지만 설명에 고개를 끄덕이는 것과 그 내용을 자기 말로 설명할 수 있는 것은 다름 . 내용을 떠올려 보거나, 이미 아는 것과 연결하거나, 새 문제에 써 봐야 어디까지 이해했는지 알 수 있음 . 보통 책에서는 어떤 질문을 던지고, 어디서 멈춰 다시 읽을지 독자가 스스로 정해야 함. 낯선 내용을 이해하는 동시에 자신이 뭘 놓쳤는지까지 점검해야 하니, 능숙한 독자에게도 부담이 됨 . …",
+  "link": "https://news.hada.io/topic?id=36969",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36968": {
+  "id": "https://news.hada.io/topic?id=36968",
+  "published": "2026-11-11T09:31:22+09:00",
+  "title": "Show HN: 스페인 발렌시아를 SimCity풍 아이소메트릭 뷰로 보기",
+  "summary": "Tiny València 는 발렌시아의 실제 건물을 같은 각도에서 내려다보는 형태로 그린 아이소메트릭 픽셀 아트 지도임 . 실제 3D 도시 데이터 를 고정된 카메라로 렌더링한 뒤, 선별한 픽셀 아트 스타일로 학습한 이미지 모델이 타일별로 다시 그림 . 각 타일이 이미 그려진 이웃 타일과 이어지도록 처리해 끊김 없는 도시 지도 를 구성함 . 발렌시아 행정구역 전체 를 그렸지만, 참고할 3D 영상이 없는 일부 작은 우에르타 농경지 월경지는 제외함 . 드래그와 확대/축소, 검색으로 지도를 탐색할 수 있고 현재 화면이 주소에 반영 돼 복사한 링크로 같은 . …",
+  "link": "https://news.hada.io/topic?id=36968",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ },
+ "https://news.hada.io/topic?id=36967": {
+  "id": "https://news.hada.io/topic?id=36967",
+  "published": "2026-11-11T09:30:02+09:00",
+  "title": "Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI",
+  "summary": "AI 에이전트가 맥/윈도우/리눅스에서 앱을 열고, 메뉴를 누르고, 입력란을 채울 수 있음 . 창 이동과 크기 조절, 클립보드 읽기와 쓰기도 지원 . 운영체제의 접근성 API로 버튼, 메뉴, 입력란을 JSON으로 가져와 , 화면 좌표 대신 각 요소의 ID로 클릭하거나 텍스트를 입력할 수 있음 . 요소 ID로 조작할 때는 기본적으로 마우스 포인터를 움직이거나 앱 포커스를 가져오지 않음 . 필요하면 스크린샷을 찍거나 키보드와 마우스로 직접 입력할 수도 있음 . CLI, MCP 서버, C 라이브러리 로 연결할 수 있으며, 무엇을 조작하고 결과를 어떻게 확인할지 . …",
+  "link": "https://news.hada.io/topic?id=36967",
+  "first_seen": "2026-11-11",
+  "digested_on": "2026-11-11",
+  "topics": [
+   "AI 에이전트"
+  ]
+ },
+ "https://news.hada.io/topic?id=36966": {
+  "id": "https://news.hada.io/topic?id=36966",
+  "published": "2026-11-11T08:32:25+09:00",
+  "title": "Toyota 브랜드 Scion이 돌아온다, 미국에서 경트럭 판매 예정",
+  "summary": "Toyota가 Scion by Toyota 로 브랜드를 부활시키며, 저렴하고 개성 있는 자동차 대신 디자인과 차량 콘셉트로 기존 이동 방식에 도전하는 실험 공간을 지향함 . 첫 양산 모델 KEI-01 은 Toyota Pixis의 배지를 바꾼 초소형 경트럭으로, 미국 판매를 위해 Indiana의 기존 생산 인프라를 활용할 예정임 . 미국 저속차량 안전 기준 에 맞춰 최고속도가 시속 25마일 미만으로 제한되고, 제한속도가 시속 35마일 미만인 도로에서만 운행할 수 있어 일상용보다는 상업용과 농업용에 초점을 맞춤 . 판매는 2027년 말 업무용 차량 시범사업 으로 소량 시작하 . …",
+  "link": "https://news.hada.io/topic?id=36966",
+  "first_seen": "2026-11-11",
+  "digested_on": null,
+  "topics": []
+ }
+}
